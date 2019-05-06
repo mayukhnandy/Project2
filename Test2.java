@@ -1,2 +1,4 @@
-c
-shvgjhsbcjhb
+class Test2
+{
+
+}
